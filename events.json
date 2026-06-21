@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Tech Conference 2026",
+    "description": "Latest technology trends and innovations",
+    "date": "2026-08-01T10:00:00.000Z",
+    "venue": "Mumbai Convention Center",
+    "totalSeats": 500,
+    "availableSeats": 500,
+    "price": 999
+  },
+  {
+    "name": "React Developer Meetup",
+    "description": "React and Next.js networking event",
+    "date": "2026-08-02T10:00:00.000Z",
+    "venue": "Pune IT Park",
+    "totalSeats": 200,
+    "availableSeats": 200,
+    "price": 499
+  },
+  {
+    "name": "Node.js Workshop",
+    "description": "Backend Development Workshop",
+    "date": "2026-08-03T10:00:00.000Z",
+    "venue": "Navi Mumbai",
+    "totalSeats": 150,
+    "availableSeats": 150,
+    "price": 799
+  },
+  {
+    "name": "AI Summit",
+    "description": "Artificial Intelligence Conference",
+    "date": "2026-08-04T10:00:00.000Z",
+    "venue": "BKC Mumbai",
+    "totalSeats": 1000,
+    "availableSeats": 1000,
+    "price": 1999
+  },
+  {
+    "name": "MERN Stack Bootcamp",
+    "description": "Full Stack Development Training",
+    "date": "2026-08-05T10:00:00.000Z",
+    "venue": "Thane",
+    "totalSeats": 300,
+    "availableSeats": 300,
+    "price": 1299
+  },
+  {
+    "name": "Event 6",
+    "description": "Description for Event 6",
+    "date": "2026-08-06T10:00:00.000Z",
+    "venue": "Venue 6",
+    "totalSeats": 160,
+    "availableSeats": 160,
+    "price": 600
+  },
+  {
+    "name": "Event 7",
+    "description": "Description for Event 7",
+    "date": "2026-08-07T10:00:00.000Z",
+    "venue": "Venue 7",
+    "totalSeats": 170,
+    "availableSeats": 170,
+    "price": 700
+  },
+  {
+    "name": "Event 8",
+    "description": "Description for Event 8",
+    "date": "2026-08-08T10:00:00.000Z",
+    "venue": "Venue 8",
+    "totalSeats": 180,
+    "availableSeats": 180,
+    "price": 800
+  },
+  {
+    "name": "Event 9",
+    "description": "Description for Event 9",
+    "date": "2026-08-09T10:00:00.000Z",
+    "venue": "Venue 9",
+    "totalSeats": 190,
+    "availableSeats": 190,
+    "price": 900
+  },
+  {
+    "name": "Event 10",
+    "description": "Description for Event 10",
+    "date": "2026-08-10T10:00:00.000Z",
+    "venue": "Venue 10",
+    "totalSeats": 200,
+    "availableSeats": 200,
+    "price": 1000
+  },
+  {
+    "name": "Event 11",
+    "description": "Description for Event 11",
+    "date": "2026-08-11T10:00:00.000Z",
+    "venue": "Venue 11",
+    "totalSeats": 210,
+    "availableSeats": 210,
+    "price": 1100
+  },
+  {
+    "name": "Event 12",
+    "description": "Description for Event 12",
+    "date": "2026-08-12T10:00:00.000Z",
+    "venue": "Venue 12",
+    "totalSeats": 220,
+    "availableSeats": 220,
+    "price": 1200
+  },
+  {
+    "name": "Event 13",
+    "description": "Description for Event 13",
+    "date": "2026-08-13T10:00:00.000Z",
+    "venue": "Venue 13",
+    "totalSeats": 230,
+    "availableSeats": 230,
+    "price": 1300
+  },
+  {
+    "name": "Event 14",
+    "description": "Description for Event 14",
+    "date": "2026-08-14T10:00:00.000Z",
+    "venue": "Venue 14",
+    "totalSeats": 240,
+    "availableSeats": 240,
+    "price": 1400
+  },
+  {
+    "name": "Event 15",
+    "description": "Description for Event 15",
+    "date": "2026-08-15T10:00:00.000Z",
+    "venue": "Venue 15",
+    "totalSeats": 250,
+    "availableSeats": 250,
+    "price": 1500
+  },
+  {
+    "name": "Event 16",
+    "description": "Description for Event 16",
+    "date": "2026-08-16T10:00:00.000Z",
+    "venue": "Venue 16",
+    "totalSeats": 260,
+    "availableSeats": 260,
+    "price": 1600
+  },
+  {
+    "name": "Event 17",
+    "description": "Description for Event 17",
+    "date": "2026-08-17T10:00:00.000Z",
+    "venue": "Venue 17",
+    "totalSeats": 270,
+    "availableSeats": 270,
+    "price": 1700
+  },
+  {
+    "name": "Event 18",
+    "description": "Description for Event 18",
+    "date": "2026-08-18T10:00:00.000Z",
+    "venue": "Venue 18",
+    "totalSeats": 280,
+    "availableSeats": 280,
+    "price": 1800
+  },
+  {
+    "name": "Event 19",
+    "description": "Description for Event 19",
+    "date": "2026-08-19T10:00:00.000Z",
+    "venue": "Venue 19",
+    "totalSeats": 290,
+    "availableSeats": 290,
+    "price": 1900
+  },
+  {
+    "name": "Event 20",
+    "description": "Description for Event 20",
+    "date": "2026-08-20T10:00:00.000Z",
+    "venue": "Venue 20",
+    "totalSeats": 300,
+    "availableSeats": 300,
+    "price": 2000
+  },
+  {
+    "name": "Event 21",
+    "description": "Description for Event 21",
+    "date": "2026-08-21T10:00:00.000Z",
+    "venue": "Venue 21",
+    "totalSeats": 310,
+    "availableSeats": 310,
+    "price": 2100
+  },
+  {
+    "name": "Event 22",
+    "description": "Description for Event 22",
+    "date": "2026-08-22T10:00:00.000Z",
+    "venue": "Venue 22",
+    "totalSeats": 320,
+    "availableSeats": 320,
+    "price": 2200
+  },
+  {
+    "name": "Event 23",
+    "description": "Description for Event 23",
+    "date": "2026-08-23T10:00:00.000Z",
+    "venue": "Venue 23",
+    "totalSeats": 330,
+    "availableSeats": 330,
+    "price": 2300
+  },
+  {
+    "name": "Event 24",
+    "description": "Description for Event 24",
+    "date": "2026-08-24T10:00:00.000Z",
+    "venue": "Venue 24",
+    "totalSeats": 340,
+    "availableSeats": 340,
+    "price": 2400
+  },
+  {
+    "name": "Event 25",
+    "description": "Description for Event 25",
+    "date": "2026-08-25T10:00:00.000Z",
+    "venue": "Venue 25",
+    "totalSeats": 350,
+    "availableSeats": 350,
+    "price": 2500
+  }
+]
